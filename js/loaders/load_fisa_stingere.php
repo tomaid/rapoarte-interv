@@ -1,0 +1,19 @@
+<script type="text/javascript">
+currentDate = new currentDate();
+jumpNext = new jumpNext();
+verificaManevre = new verificaManevre();
+StopCardio = new StopCardio();
+Localitati = new Localitati();
+Sate = new Sate();
+tipInterventie = new tipInterventie();
+CodInterventie = new CodInterventie();
+copyField = new copyField();
+CodDest = new CodDest();
+OrganTutelar = new OrganTutelar();
+TipProprietate = new TipProprietate();
+CodAlert = new CodAlert();
+ActivitateEconomica = new ActivitateEconomica();
+CodSolicit = new CodSolicit();
+CodPredare = new CodPredare();
+Validareforma = new Validareforma();
+</script>
